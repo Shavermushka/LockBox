@@ -1,3 +1,7 @@
+# Copyright (C) 2026 Егор (твой GitHub-ник)
+# This file is part of [Название проекта] and is licensed under the GNU GPLv3.
+# See the LICENSE file for details.
+
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
