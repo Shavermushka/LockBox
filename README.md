@@ -87,5 +87,5 @@ pyinstaller --onefile --windowed main.py --name password_manager
 
 ## Лицензия
 
-MIT
+GPLv3
 
