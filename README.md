@@ -24,7 +24,7 @@
 
 1. Клонируйте репозиторий или скачайте архив.
 2. Создайте виртуальное окружение (рекомендуется):
-   ```bash
+```bash
    python -m venv venv
    source venv/bin/activate  # Linux
    # или venv\Scripts\activate  # Windows
